@@ -1,0 +1,44 @@
+img {
+ border-style: solid;
+ border-color: red;
+ border-width: 1px;
+}
+h1{
+    background-color: black;
+}
+h1,h2{
+    color: gray;
+}
+section.s> h2{
+    border-style: solid;
+    border-color:green ;
+}
+#mon > :nth-child(1){
+    color: pink;
+}
+#mon > :not(:nth-child(1)) {
+    border-style: solid;
+    border-color: red;
+}
+#mon >div {
+    background-color: yellow;
+}
+.w > h2:hover{
+    color: green;
+}
+#mon > h2:hover ,#tue > h2:hover{
+    color: red;
+}
+h1,h2{
+    color: pink;
+}
+ul :first-of-type{
+    font-weight: bold;
+}
+ul :nth-of-type(2){
+    color: red;
+}
+#tue > div :first-of-type{
+    color: blue;
+}
+
