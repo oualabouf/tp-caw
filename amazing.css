@@ -41,4 +41,12 @@ ul :nth-of-type(2){
 #tue > div :first-of-type{
     color: blue;
 }
-
+#tue div > span:nth-of-type(2){
+    font-size: 200%;
+}
+ul :nth-of-type(9){
+    color:blue;
+}
+ul :nth-of-type(5n+3){
+    color: green;
+}
