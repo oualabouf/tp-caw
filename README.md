@@ -1,2 +1,2 @@
 # tp-caw
-boufenara ouala eddine rt fellah samy G2 tp
+boufenara ouala eddine et fellah samy G2 tp
